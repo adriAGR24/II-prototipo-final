@@ -27,7 +27,7 @@ Para disfrutar de la experiencia tal y como fue diseñada, por favor ten en cuen
 
 ## 🚀 Hitos de Programación y Contenidos Impartidos
 
-El desarrollo ha integrado competencias avanzadas de la asignatura de **Interfaces Multimodales** y programación en Unity:
+El desarrollo ha integrado competencias avanzadas de la asignatura de **Interfaces Inteligentes** y programación en Unity:
 
 ### 1. Programación Orientada a Eventos (Observer Pattern)
 Hemos desacoplado totalmente la lógica del juego de la interfaz y los efectos audiovisuales.
@@ -68,7 +68,7 @@ Lectura directa de los sensores del hardware para mecánicas ocultas.
 
 ## 👥 Acta de Acuerdos del Grupo
 
-**Metodología:** Trabajo modular con integración continua mediante Git.
+**Metodología:** Trabajo modular con integración continua mediante Unity Version Control.
 
 ### Reparto de Tareas Individuales
 
@@ -106,4 +106,4 @@ Lectura directa de los sensores del hardware para mecánicas ocultas.
 | **Prevención de "Gorilla Arm"** | ✅ Se contempla | La mesa está a una altura baja y los elementos interactivos están al alcance de la mano descansada. |
 
 ---
-*Proyecto realizado para la Universidad de La Laguna - Curso 202X/202X*
+*Proyecto realizado para la Universidad de La Laguna - Curso 2025/2026*
