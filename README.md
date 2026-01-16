@@ -4,8 +4,7 @@
 
 Este proyecto implementa una simulación de Blackjack inmersiva donde la interacción natural es la protagonista. Se han sustituido los controles tradicionales por **comandos de voz (Reconocimiento del Habla)** y **gestos físicos**, creando una interfaz multimodal que simula la experiencia real de sentarse frente a un crupier en un casino.
 
-![Demo del Proyecto](ruta/a/tu_gif_animado.gif)
-*(Sustituye esta línea por la ruta de tu GIF en la carpeta del proyecto)*
+▶️ [Ver Demo de Clandestine Blackjack](https://youtu.be/RlodKC8buwE)
 
 ---
 
